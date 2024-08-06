@@ -1,4 +1,4 @@
-<h1 align="center">Versionamento_GitHub</h1>
+<h1 align="center">Versionamento GitHub</h1>
 
 O Git Bash é uma aplicação que fornece recursos de linha de comando do Git, bem como emulação de shell bash. Com poucos comandos você pode criar novos repositórios, atualizar os já existentes e muito mais. Aqui estão alguns dos comandos mais usados que poderão te ajudar no dia a dia:
 
