@@ -31,3 +31,6 @@ Este comando é usado para buscar e mesclar alterações no repositório remoto 
 ### Verificando o Status do Repositório <br>
 git status <br>
 Este comando é us <br>
+<br>
+### Criando uma nova Branch
+git checkout -b "Nova-Branch"
